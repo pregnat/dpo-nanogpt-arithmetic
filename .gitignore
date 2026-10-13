@@ -1,0 +1,8 @@
+*.log
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
